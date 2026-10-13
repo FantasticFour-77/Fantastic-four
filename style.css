@@ -10,8 +10,11 @@ p {color : #808080
   }
 body {background-color:aqua;
      border:6px solid yellow;
-     border-radius:25px
-     }
+     border-radius:25px}
+ul {list-style-type:none;}
+li {display:inline;
+    padding:10px;
+   }
 marquee {color:blue;
         font-family:Calibri
         }
