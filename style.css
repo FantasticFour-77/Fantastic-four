@@ -18,4 +18,9 @@ li {display:inline;
 marquee {color:blue;
         font-family:Calibri
         }
-img{width;100px}
+   
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
